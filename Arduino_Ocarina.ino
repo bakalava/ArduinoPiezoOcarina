@@ -1,5 +1,5 @@
 /*  ARDUINO OCARINA
-    By:              Peter Feng, Sally Hui
+    By:              Sally Hui
     Course:          TER4M1
     Teacher:         Jay, S.
     Date Created:    May 15, 2014
